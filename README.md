@@ -11,6 +11,9 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Programação Concorrente e Distribuída
 - Cabeça de lab - [Concorrência e Paralelismo](https://open.spotify.com/episode/7mnOddZ2iPZ8Kv2y5Wn74g?si=HI9MyK6WQmaMwtwVzjpj5A) 
 
+## Estrutura de Dados
+- Hipsters Ponto Tech - [Algoritmos e estrutura de dados - Hipsters #186](https://open.spotify.com/episode/3EnlZFp79aUogKt3uY4grc?si=Mo7VTr6ISDedvn-Xba2Hvw)
+
 ## Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
