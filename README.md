@@ -17,6 +17,9 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Estrutura de Dados
 - Hipsters Ponto Tech - [Algoritmos e estrutura de dados - Hipsters #186](https://open.spotify.com/episode/3EnlZFp79aUogKt3uY4grc?si=Mo7VTr6ISDedvn-Xba2Hvw)
 
+## UX (Exeriência de Usuário)
+- Movimento UX - [Introdução ao tema UX, possibilidades de atuação e dicas pra começar. #01](https://www.movimentoux.com/ux-design/caio-cesar/)
+
 ## Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
