@@ -22,3 +22,6 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
+
+## 5G e a internet do futuro
+- http://www.redegeek.com.br/2020/09/14/eu-nao-acredito-028-5g-e-a-internet-do-futuro/
