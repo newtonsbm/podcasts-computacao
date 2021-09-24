@@ -24,6 +24,9 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Inglês na Programação
 - Não sei inglês, e agora? | Podcast FalaDev #03 - ROCKETSEAT (https://www.youtube.com/watch?v=keMIEpZxQNI)
 
+## Segurança da Informação
+- PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
