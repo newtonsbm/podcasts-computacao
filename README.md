@@ -24,8 +24,10 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Inglês na Programação
 - Não sei inglês, e agora? | Podcast FalaDev #03 - ROCKETSEAT (https://www.youtube.com/watch?v=keMIEpZxQNI)
 
+## Ciência de dados
+- Cientista de Dados [Tecnocast 077](https://www.youtube.com/watch?v=dh7CCeCbcco)
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
-
 
