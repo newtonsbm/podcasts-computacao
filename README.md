@@ -2,11 +2,13 @@
 
 Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências da Computação
 
+
+
 ## Engenharia de Software
 - Lambda3 - [ep 124 Fluxo de desenvolvimento com git](https://www.lambda3.com.br/2019/01/lambda3-podcast-124-fluxo-de-desenvolvimento-com-git/)
 - Movimento UX - [Introdução ao tema UX, possibilidades de atuação e dicas pra começar. #01](https://www.movimentoux.com/ux-design/caio-cesar/)
 - NerdCast - [UX no pop up dos outros é refresco](https://jovemnerd.com.br/nerdcast/nerdtech/ux-no-pop-up-dos-outros-e-refresco/)
-
+- spotify https://open.spotify.com/episode/2vWzr6vvrUbyPXLIPayOdm?si=OLHsc9kZSfq8qrrZlmRYeQ&dl_branch=1
 ## Inteligência Artificial
 - Podcast Ciência USP #05 - [A inteligência artificial pode ajudar a entender o cérebro?](https://www.youtube.com/watch?v=wm5CFUX9akc&list=LLOYhKTrx06OI5PtDPpN8m_w&index=2)
 - Direito Digital Cast-[A presença da inteligência artificial no nosso dia a dia](https://www.youtube.com/watch?v=AcQEPOFEGP8)
