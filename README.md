@@ -11,7 +11,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 - Podcast Ciência USP #05 - [A inteligência artificial pode ajudar a entender o cérebro?](https://www.youtube.com/watch?v=wm5CFUX9akc&list=LLOYhKTrx06OI5PtDPpN8m_w&index=2)
 - Direito Digital Cast-[A presença da inteligência artificial no nosso dia a dia](https://www.youtube.com/watch?v=AcQEPOFEGP8)
 - Café da Manhã - [O melhor e o pior da inteligência artificial](https://open.spotify.com/episode/4TkUtd6bYudNYmbNv6aFTP?go=1&utm_source=embed_v3&t=0&nd=1)
-
+- Cabeça de Lab - [Devs Serão Substituídos (as) Pela Inteligência Artificial?](https://open.spotify.com/episode/39vIQ7k3XBBX0zdh4iLDZA)
 - NerdCast - [O futuro (des)esperado das I.A.s](https://jovemnerd.com.br/nerdcast/o-futuro-desesperado-das-i-a-s/)
 
 ## Programação Concorrente e Distribuída
