@@ -15,6 +15,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 - Café da Manhã - [O melhor e o pior da inteligência artificial](https://open.spotify.com/episode/4TkUtd6bYudNYmbNv6aFTP?go=1&utm_source=embed_v3&t=0&nd=1)
 - Cabeça de Lab - [Devs Serão Substituídos (as) Pela Inteligência Artificial?](https://open.spotify.com/episode/39vIQ7k3XBBX0zdh4iLDZA)
 - NerdCast - [O futuro (des)esperado das I.A.s](https://jovemnerd.com.br/nerdcast/o-futuro-desesperado-das-i-a-s/)
+- Privacy by Us - [Inteligência Artificial e Reconhecimento Facial](https://open.spotify.com/episode/2zXTkHT1knSM82K7SbsUvO?si=TS3OvJ1GRFeJaIkfTa-dIQ&dl_branch=1)
 
 ## Programação Concorrente e Distribuída
 - Cabeça de lab - [Concorrência e Paralelismo](https://open.spotify.com/episode/7mnOddZ2iPZ8Kv2y5Wn74g?si=HI9MyK6WQmaMwtwVzjpj5A) 
