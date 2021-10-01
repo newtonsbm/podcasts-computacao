@@ -29,6 +29,9 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Ciência de dados
 - Cientista de Dados [Tecnocast 077](https://www.youtube.com/watch?v=dh7CCeCbcco)
 
+## Redes de Computadores
+PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
