@@ -38,3 +38,6 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
 
+## Metadata Podcast
+- Filipe Alves: Mestre em Ciência da Computação (Metadata #7)
+- https://www.youtube.com/watch?v=ZVVztV3lSUM
