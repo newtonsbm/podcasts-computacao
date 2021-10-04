@@ -29,6 +29,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 
 ## Ciência de dados
 - Cientista de Dados [Tecnocast 077](https://www.youtube.com/watch?v=dh7CCeCbcco)
+- Sinapse #28 - [Hacker éticos, privacidade na internet e o Backdoor do Greg](https://open.spotify.com/episode/3Tv11Rt0JRWUWD6tpBtUl9?si=bf138681091c448d)
 
 ## Redes de Computadores
 PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
