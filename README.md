@@ -37,6 +37,10 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 ## Laboratório de programação
 -Low code ou No code [NerdTech 59](https://jovemnerd.com.br/nerdcast/nerdtech/low-code-ou-no-code/)
 
+## Legislação, Ética e Sociedade
+- [Lei Geral de Proteção de Dados | Braincast 337 | B9 Podcasts] (https://www.youtube.com/watch?v=ZUi-nAwtPB8&list=PLTQfxLkE9O6wjfZT0xG9VBSfeNUwSBN_5&index=37)
+
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
