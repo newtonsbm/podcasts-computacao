@@ -38,3 +38,5 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
 
+# Contribuindo Engenharia de Software 
+- Use [PODCAST #7 - Falando sobre Reuso de Software](https://www.youtube.com/watch?v=tfGuK8AUz6Y)
