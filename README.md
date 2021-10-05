@@ -8,6 +8,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 - NerdCast - [UX no pop up dos outros é refresco](https://jovemnerd.com.br/nerdcast/nerdtech/ux-no-pop-up-dos-outros-e-refresco/)
 - Fronteiras da Engenharia de Software - [#2. Desenvolvimento de Software Distribuído com Prof. Rafael Prikladnicki (PUCRS)]
 (https://open.spotify.com/episode/6egTW0uq8Cc31vmU5mFxkj?si=NMqDfNbVRZuuJ7AtEK87PA&dl_branch=1)
+- Use [PODCAST #7 - Falando sobre Reuso de Software](https://www.youtube.com/watch?v=tfGuK8AUz6Y)
 
 ## Inteligência Artificial
 - Podcast Ciência USP #05 - [A inteligência artificial pode ajudar a entender o cérebro?](https://www.youtube.com/watch?v=wm5CFUX9akc&list=LLOYhKTrx06OI5PtDPpN8m_w&index=2)
@@ -40,4 +41,3 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
-
