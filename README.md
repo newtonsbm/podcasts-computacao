@@ -42,3 +42,6 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
 - Mestre em Ciência da Computação (https://www.youtube.com/watch?v=ZVVztV3lSUM)
 
+## Mestre em Ciência da Computação
+- Filipe Alves: Mestre em Ciência da Computação (Metadata #7)
+- https://www.youtube.com/watch?v=ZVVztV3lSUM
