@@ -40,4 +40,5 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
+- Mestre em Ciência da Computação (https://www.youtube.com/watch?v=ZVVztV3lSUM)
 
