@@ -30,6 +30,7 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Ciência de dados
 - Cientista de Dados [Tecnocast 077](https://www.youtube.com/watch?v=dh7CCeCbcco)
 - Sinapse #28 - [Hacker éticos, privacidade na internet e o Backdoor do Greg](https://open.spotify.com/episode/3Tv11Rt0JRWUWD6tpBtUl9?si=bf138681091c448d)
+- [Mestre em Ciência da Computação] (https://www.youtube.com/watch?v=ZVVztV3lSUM)
 
 ## Redes de Computadores
 PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
@@ -40,8 +41,5 @@ PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
-- Mestre em Ciência da Computação (https://www.youtube.com/watch?v=ZVVztV3lSUM)
 
-## Mestre em Ciência da Computação
-- Filipe Alves: Mestre em Ciência da Computação (Metadata #7)
-- https://www.youtube.com/watch?v=ZVVztV3lSUM
+
