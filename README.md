@@ -34,6 +34,10 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Redes de Computadores
 PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
 
+## Legislação, Ética e Sociedade
+- Lei Geral de Proteção de Dados | Braincast 337 | B9 Podcasts (https://www.youtube.com/watch?v=ZUi-nAwtPB8&list=PLTQfxLkE9O6wjfZT0xG9VBSfeNUwSBN_5&index=37)
+
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
