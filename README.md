@@ -34,6 +34,9 @@ Lista de episodios de podcasts relacionados a disciplinas do curso de Ciências 
 ## Redes de Computadores
 PodProgramar #19 – Segurança da Informação (https://www.youtube.com/watch?v=78tGaUbXSOw&ab_channel=PodProgramar)
 
+## Laboratório de programação
+-Low code ou No code [NerdTech 59](https://jovemnerd.com.br/nerdcast/nerdtech/low-code-ou-no-code/)
+
 # Contribuindo
 - Use [Markdown GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Siga o template: Nome do episodio - [nro do episodio (opcional)] titulo do episodio
